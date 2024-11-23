@@ -21,7 +21,7 @@
 #### All components are powered directly from the Battery
 #### Battery: Power Source (7.4V)
 #### Radiolink R6F receiver: Receives commands via radio and controls the engine choke (throttle) and rudder
-#### Engine Ignition: System for starting the engine
+#### Engine Ignition: System for starting/stopping the engine
 #### Rudder Servo: Moves the rudder to steer the boat
 ### FERC Communication Diagram
 
