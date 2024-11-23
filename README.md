@@ -13,7 +13,7 @@
 ### ERC Communication Diagram
 
 ![](assets/20241123_074754_Communcation.drawio.png)
-### The Radiolink R6F receiver receives commands via radio and controls the thruster and rudder using PWM to move and steer the boat
+#### The Radiolink R6F receiver receives commands via radio and controls the thruster and rudder using PWM to move and steer the boat
 
 ### FERC Electrical Diagram
 
